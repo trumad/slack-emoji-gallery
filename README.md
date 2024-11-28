@@ -4,7 +4,10 @@ This is a node script which outputs a single-file html gallery of all the custom
 
 Here is a demo of what the final html file is like to browse:
 
-[slackEmojiGalleryDemo.mp4](slackEmojiGalleryDemo.mp4)
+<video src="https://raw.githubusercontent.com/trumad/slack-emoji-gallery/main/slackEmojiGalleryDemo.mp4" controls width="600"> 
+  Your browser does not support the video tag.
+</video>
+
 
 ## Usage:
 
